@@ -11,7 +11,7 @@ function TopBar({ context, advancedFeature, setAdvancedFeature }) {
     <AppBar className="topbar-appBar" position="absolute">
       <Toolbar style={{ display: 'flex', justifyContent: 'space-between' }}>
         <Typography variant="h5" color="inherit">
-          Nguyen Minh Hoang
+          Hà Đình Bình -B23DCVT051
         </Typography>
         <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
           <FormControlLabel
